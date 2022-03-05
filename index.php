@@ -1,6 +1,6 @@
 <?php phpinfo(); ?>
 <!DOCTYPE html>
-<!--- Basic html ---!>
+<!-- Basic html -->
 <html lang="en">
   <head>
     <meta charset="utf-8"/>
